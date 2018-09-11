@@ -6,7 +6,7 @@
 local themes_path = require("gears.filesystem").get_themes_dir()
 local theme = {}
 
-theme.font                      = "Noto Sans Regular 10"
+theme.font              = "Noto Sans Regular 10"
 theme.notification_font = "Noto Sans Bold 14"
 
 theme.bg_normal   = "#222D32"
@@ -65,10 +65,10 @@ theme.titlebar_sticky_button_focus_inactive     = themes_path .. "cesious/titleb
 theme.titlebar_sticky_button_normal_active      = themes_path .. "cesious/titlebar/sticky_normal_active.png"
 theme.titlebar_sticky_button_focus_active       = themes_path .. "cesious/titlebar/sticky_focus_active.png"
 
-theme.titlebar_floating_button_normal_inactive   = themes_path .. "cesious/titlebar/floating_normal_inactive.png"
-theme.titlebar_floating_button_focus_inactive    = themes_path .. "cesious/titlebar/floating_focus_inactive.png"
-theme.titlebar_floating_button_normal_active     = themes_path .. "cesious/titlebar/floating_normal_active.png"
-theme.titlebar_floating_button_focus_active      = themes_path .. "cesious/titlebar/floating_focus_active.png"
+theme.titlebar_floating_button_normal_inactive  = themes_path .. "cesious/titlebar/floating_normal_inactive.png"
+theme.titlebar_floating_button_focus_inactive   = themes_path .. "cesious/titlebar/floating_focus_inactive.png"
+theme.titlebar_floating_button_normal_active    = themes_path .. "cesious/titlebar/floating_normal_active.png"
+theme.titlebar_floating_button_focus_active     = themes_path .. "cesious/titlebar/floating_focus_active.png"
 
 theme.titlebar_maximized_button_normal_inactive = themes_path .. "cesious/titlebar/maximized_normal_inactive.png"
 theme.titlebar_maximized_button_focus_inactive  = themes_path .. "cesious/titlebar/maximized_focus_inactive.png"
@@ -80,8 +80,8 @@ theme.wallpaper = themes_path .. "cesious/awesome-scrabble.png"
 -- You can use your own layout icons like this:
 theme.layout_fairh      = themes_path .. "cesious/layouts/fairh.png"
 theme.layout_fairv      = themes_path .. "cesious/layouts/fairv.png"
-theme.layout_floating    = themes_path .. "cesious/layouts/floating.png"
-theme.layout_magnifier   = themes_path .. "cesious/layouts/magnifier.png"
+theme.layout_floating   = themes_path .. "cesious/layouts/floating.png"
+theme.layout_magnifier  = themes_path .. "cesious/layouts/magnifier.png"
 theme.layout_max        = themes_path .. "cesious/layouts/max.png"
 theme.layout_fullscreen = themes_path .. "cesious/layouts/fullscreen.png"
 theme.layout_tilebottom = themes_path .. "cesious/layouts/tilebottom.png"
