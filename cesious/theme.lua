@@ -4,7 +4,7 @@
 --]]
 
 local themes_path = require("gears.filesystem").get_themes_dir()
-local theme = {}
+theme = {}
 
 theme.font              = "Noto Sans Regular 10"
 theme.notification_font = "Noto Sans Bold 14"
