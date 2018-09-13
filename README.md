@@ -9,12 +9,14 @@ Install cesious folder at **/usr/share/awesome/themes/** or anywhere else and us
 
 ```
 beautiful.init("/usr/share/awesome/themes/cesious/theme.lua")
-theme.bg_normal = "#2F343F"
-theme.bg_focus = "#404552"
-theme.font = "Noto Sans Regular 12"
-theme.notification_font = "Noto Sans Bold 16"
+beautiful.bg_normal = "#2F343F"
+beautiful.bg_focus = "#404552"
+beautiful.titlebar_close_button_normal = "PATH_TO_CESIOUS_FOLDER/titlebar/close_normal_arc.png"
+beautiful.titlebar_close_button_focus    = "PATH_TO_CESIOUS_FOLDER/titlebar/close_focus_arc.png"
+beautiful.font = "Noto Sans Regular 12"
+beautiful.notification_font = "Noto Sans Bold 16"
 beautiful.wallpaper = "/usr/share/backgrounds/SOME_WALLPAPER.png"
-beautiful.icon_theme="Arc-Maia"
+beautiful.icon_theme="Arc"
 ```
 
 #### Optional dependencies:
