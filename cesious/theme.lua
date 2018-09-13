@@ -52,8 +52,8 @@ theme.menu_width  = 200
 --theme.bg_widget = "#cc0000"
 
 -- Define the image to load
-theme.titlebar_close_button_normal              = themes_path .. "cesious/titlebar/close_normal_filled.png"
-theme.titlebar_close_button_focus               = themes_path .. "cesious/titlebar/close_focus_filled.png"
+theme.titlebar_close_button_normal              = themes_path .. "cesious/titlebar/close_normal_adapta.png"
+theme.titlebar_close_button_focus               = themes_path .. "cesious/titlebar/close_focus_adapta.png"
 
 theme.titlebar_ontop_button_normal_inactive     = themes_path .. "cesious/titlebar/ontop_normal_inactive.png"
 theme.titlebar_ontop_button_focus_inactive      = themes_path .. "cesious/titlebar/ontop_focus_inactive.png"
