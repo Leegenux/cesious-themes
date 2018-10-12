@@ -9,8 +9,8 @@ theme = {}
 theme.font              = "Noto Sans Regular 10"
 theme.notification_font = "Noto Sans Bold 14"
 
-theme.bg_normal   = "#222D32"
-theme.bg_focus    = "#2C3940"
+theme.bg_normal   = "#141A1B"
+theme.bg_focus    = "#222B2E"
 theme.bg_urgent   = "#000000"
 theme.bg_minimize = "#101010"
 theme.bg_systray  = theme.bg_normal
@@ -52,8 +52,8 @@ theme.menu_width  = 200
 --theme.bg_widget = "#cc0000"
 
 -- Define the image to load
-theme.titlebar_close_button_normal              = themes_path .. "cesious/titlebar/close_normal_adapta.png"
-theme.titlebar_close_button_focus               = themes_path .. "cesious/titlebar/close_focus_adapta.png"
+theme.titlebar_close_button_normal              = themes_path .. "cesious/titlebar/close_normal_arc.png"
+theme.titlebar_close_button_focus               = themes_path .. "cesious/titlebar/close_focus_arc.png"
 
 theme.titlebar_ontop_button_normal_inactive     = themes_path .. "cesious/titlebar/ontop_normal_inactive.png"
 theme.titlebar_ontop_button_focus_inactive      = themes_path .. "cesious/titlebar/ontop_focus_inactive.png"
