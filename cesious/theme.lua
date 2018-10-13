@@ -1,6 +1,7 @@
 --[[
     Cesious Awesome WM theme
     Created by Culinax
+    Modified by Thanos Apostolou
 --]]
 
 local themes_path = require("gears.filesystem").get_themes_dir()
@@ -90,6 +91,10 @@ theme.layout_tile       = themes_path .. "cesious/layouts/tile.png"
 theme.layout_tiletop    = themes_path .. "cesious/layouts/tiletop.png"
 theme.layout_spiral     = themes_path .. "cesious/layouts/spiral.png"
 theme.layout_dwindle    = themes_path .. "cesious/layouts/dwindle.png"
+theme.layout_cornernw   = themes_path .. "cesious/layouts/cornernw.png"
+theme.layout_cornerne   = themes_path .. "cesious/layouts/cornerne.png"
+theme.layout_cornersw   = themes_path .. "cesious/layouts/cornersw.png"
+theme.layout_cornerse   = themes_path .. "cesious/layouts/cornerse.png"
 
 theme.awesome_icon = themes_path .. "cesious/icons/manjaro64.png"
 
