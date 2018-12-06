@@ -26,6 +26,8 @@ theme.border_normal = "#000000"
 theme.border_focus  = "#16A085"
 theme.border_marked = "#16A085"
 
+theme.hotkeys_modifiers_fg = "#2EB398"
+
 -- There are other variable sets
 -- overriding the default one when
 -- defined, the sets are:
