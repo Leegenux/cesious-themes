@@ -5,6 +5,7 @@
 --]]
 
 local themes_path = require("gears.filesystem").get_themes_dir()
+local themes_path = "~/.config/awesome/themes/cesious-theme/"
 theme = {}
 
 theme.font              = "Noto Sans Regular 10"
