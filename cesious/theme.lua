@@ -9,6 +9,7 @@ theme = {}
 
 theme.font              = "Noto Sans Regular 10"
 theme.notification_font = "Noto Sans Bold 14"
+theme.useless_gap       = 7
 
 theme.bg_normal   = "#141A1B"
 theme.bg_focus    = "#222B2E"
